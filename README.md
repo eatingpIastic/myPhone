@@ -1,3 +1,1 @@
-# myPhone
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/eatingpIastic/myPhone)
+## MyPhone is my (eatingplastic) turn at a fake apple website.
